@@ -21,5 +21,7 @@ Thumbs.db
 .claude/settings.local.json
 
 # 生成物（.md がソース。HTML/PDF エクスポートは追跡しない。実名入りPDFの公開防止も兼ねる）
+# 月次PDF/HTMLは monthly/YYYY/exports/ に出力し、フォルダごと追跡しない
+exports/
 *.html
 *.pdf
