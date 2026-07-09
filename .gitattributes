@@ -1,0 +1,2 @@
+# 改行コードを LF に統一（Windows/WSL 混在での毎回全行差分＝churn を防止）
+* text=auto eol=lf
